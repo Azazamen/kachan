@@ -1,1 +1,2 @@
 # kachan
+# chitai vnimatelno
